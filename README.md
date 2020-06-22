@@ -52,5 +52,9 @@ Use <kbd>control</kbd> + <kbd>s</kbd> to turn on Window Layout Mode. Then, use a
 
 Window Layout Mode ships with the default keybindings above, but you're welcome to personalize this setup. See [`hammerspoon/windows-bindings-defaults.lua`](hammerspoon/windows-bindings-defaults.lua) for instructions on configuring shortcuts to your personal taste.
 
+## Credit
+Window Layout Mode is a functionality extracted from: [keyboard](https://github.com/jasonrudolph/keyboard)
+
+All credit goes to [@jasonrudolph](https://github.com/jasonrudolph)
 
 [hammerspoon]: http://www.hammerspoon.org
